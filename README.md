@@ -14,4 +14,4 @@ Create a header that goes all the way across the screen, two section areas that 
 Put the word CodeCrew in a div with a blue background and 20% width. Give it a class of flyingCodeCrew. In your javascript, when the key for down is press, make the relative position go down 10px. If the key for up is pressed, make the relative position go up for 10px. Do the same for left and right.
 
 Note: Use document.addEventListener('keydown', [FUNCTION]); when getting all keyboard strikes.
-Note2: [ELEMENT].style.[DIRECTION] does not return a value. You have to keep up with it yourself.
+Note2: [ELEMENT].style.[DIRECTION] does not return a value. You have to keep up with it yourself or find a different way to call it.
